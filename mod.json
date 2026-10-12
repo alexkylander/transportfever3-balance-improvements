@@ -1,0 +1,11 @@
+{
+    "modId": "balance_improvements",
+    "revision": 1,
+    "severityAdd" : "None",
+    "severityRemove" : "None",
+    "visible" : true,
+    "cosmetic" : true,
+    "postRunScript": {
+        "fileName": "balance_improvements::mod.script@postRunFn"
+    }
+}
